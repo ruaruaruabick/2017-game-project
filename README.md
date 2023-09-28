@@ -1,2 +1,2 @@
 # 2017-game-project
-2017同济软院C++大项目(泡泡堂)
+2017,SW TONGJI,C++ course project(PaoPao Tang)
